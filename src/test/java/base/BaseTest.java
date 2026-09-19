@@ -26,6 +26,19 @@ public class BaseTest {
 		driver.quit();
 	}
 	
+
+	
+
+	public void sample() {
+		System.out.println("sample method");
+
+	}
+	
+	public void sample1() {
+		System.out.println("sample method1");
+
+	}
+	
 	public void sampl2() {
 		System.out.println("Sample method");
 
@@ -35,6 +48,8 @@ public class BaseTest {
 		System.out.println("Sample method3");
 
 	}
+	
+
 	/*public WebDriver getDriver() {
 		return driver;
 	}
