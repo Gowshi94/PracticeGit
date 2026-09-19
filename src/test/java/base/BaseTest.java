@@ -26,6 +26,15 @@ public class BaseTest {
 		driver.quit();
 	}
 	
+	public void sampl2() {
+		System.out.println("Sample method");
+
+	}
+	
+	public void sampl3() {
+		System.out.println("Sample method3");
+
+	}
 	/*public WebDriver getDriver() {
 		return driver;
 	}
